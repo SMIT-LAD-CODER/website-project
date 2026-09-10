@@ -36,32 +36,7 @@ npm start
 
 The website will be accessible at `http://localhost:5000`
 
-## Project Structure
 
-```
-website-project/
-├── public/           # Static files
-├── src/             # Source code
-│   ├── components/  # Reusable components
-│   ├── pages/       # Page components
-│   ├── styles/      # CSS/styling
-│   └── index.js     # Entry point
-├── package.json     # Project dependencies and scripts
-└── README.md        # This file
-```
-
-## Features
-
-- Responsive design
-- Modern UI/UX
-- Fast performance
-- Easy to customize
-
-## Technologies Used
-
-- HTML/CSS/JavaScript
-- Node.js/Express (backend)
-- [Add your specific technologies]
 
 ## Contributing
 
